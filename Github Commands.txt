@@ -1,0 +1,37 @@
+where is the folder for the project?
+
+Let me show you the quick command way.
+I have never used the gui
+ok sawa
+
+Let me list the commands here:
+git init - we have skipped this since it it already initialized
+git remote add origin  <repo url>
+
+Now you will be using only the below commands for subsequent uploads for this project. If starting on a new folder/project you start from step 2 ---sawa
+git add .
+git  commit -m <your custom message here>
+git push origin master
+
+
+the above commands are the main  one
+
+so now kindly open the github account you created
+
+now hope you have your email and password for your github account
+yes
+
+proceed
+can I copy the password?
+
+yes - but first input user name
+
+got to your progfile
+
+so your code is now updated to share you use the link:https://github.com/nokello2002/Python-Class.git
+
+
+so now I continue with second class then I upload using the same processes starting at Git add .?
+yes
+sawa. So many thanks. Let me do it right away so i practice before I forget.
+Sawasawa
