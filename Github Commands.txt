@@ -28,7 +28,7 @@ yes - but first input user name
 
 got to your progfile
 
-so your code is now updated to share you use the link:https://github.com/nokello2002/Python-Class.git
+so your code is now updated to share you use the Link:  https://github.com/nokello2002/Python-Class.git
 
 
 so now I continue with second class then I upload using the same processes starting at Git add .?
