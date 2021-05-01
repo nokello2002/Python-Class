@@ -17,3 +17,7 @@ Text file
 -	Able to list the contacts as a string and not as a dictionary
 -	Able to search the contacts
 -	Cannot delete or update the dictionary
+
+
+Assignment #8
+Working as expected by pulling the sheng list from Github then able to update locally on the file stored in my computer
