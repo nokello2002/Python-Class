@@ -1,0 +1,2 @@
+1:{'First Name': ['Nicholas'], 'Middle Name': ['Okello'], 'Last Name': ['O'], 'Mailing Address': ['Box 8989'], 'City': ['Nairobi'], 'Country': ['Kenya'], 'Zip Code': ['254'], 'Email Address': ['nokello2002@yahoo.co.uk'], 'Phone Number': ['0205151500']}
+1:{'First Name': ['Joel'], 'Middle Name': ['Saitoti'], 'Last Name': ['K'], 'Mailing Address': ['Box 6778'], 'City': ['Nairobi'], 'Country': ['Kenya'], 'Zip Code': ['254'], 'Email Address': ['saitoti@yahoo.com'], 'Phone Number': ['0203434343']}
