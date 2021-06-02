@@ -46,7 +46,7 @@ while True:
     if operation =='1':     #adding new customers
         #check if the customer file exists and load the details in the customer dictionary
         try:
-            with open ("D:\PythonLessons\customer.txt", "r") as file:
+            with open ("D:\PythonLessons\Assignment_9\customer.txt", "r") as file:
                 main_customer={}
                 main_customer=json.load(file)
                 #print(main_customer)
@@ -92,7 +92,7 @@ while True:
             
             #print(customer[custid])
             #Open the Contacts text file to save details of phone book
-            with open ("D:\PythonLessons\customer.txt", "w") as file:
+            with open ("D:\PythonLessons\Assignment_9\customer.txt", "w") as file:
                 json.dump(main_customer,file)
                 
             #save to MySQL table
@@ -120,7 +120,7 @@ while True:
         print("1 Kilowatt of electricity is Kshs 10.00 in Urban Area (Heavy Industrial)")
         
     elif operation =='3':     #Bill customers
-        filename="D:\PythonLessons\customer.txt"
+        filename="D:\PythonLessons\Assignment_9\customer.txt"
         infile=open(filename, "r")
         customer={}
         customer=json.load(infile)
@@ -326,7 +326,7 @@ while True:
         
     
     elif operation =='5':       #List customers
-            filename="D:\PythonLessons\customer.txt"
+            filename="D:\PythonLessons\Assignment_9\customer.txt"
             infile=open(filename, "r")
             main_customer=json.load(infile)
             infile.close()
