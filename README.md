@@ -1,23 +1,22 @@
 # Python-Class
-Assignment #7
-This assignment has been done 3 times by saving to text file, pickle module and using JSON and responses are summarized below
-Json File
--	Able to save a contact as a dictionary
--	Able to list contacts from the dictionary
--	Cannot be able to delete, update or search the contact
+Assignment #1 
+This is a basic program that is an introduction to Python and Github
 
-Pickle module
--	Able to save contacts to the disk in binary format
--	Able to list contacts from the dictionary
--	Able to search for the contact
--	Cannot delete or update the dictionary
+Assignment #2
+This is another basic program to demonstrate understanding of variables
 
-Text file
--	Able to save contacts to the text file
--	Able to list the contacts as a string and not as a dictionary
--	Able to search the contacts
--	Cannot delete or update the dictionary
+Assignment #3
+This is a program meant to illustrate undestanding of the conditional statements and loops in Python
 
 
-Assignment #8
-Working as expected by pulling the sheng list from Github then able to update locally on the file stored in my computer
+Assignment #4
+This is yet another program meant to illustrate the understannding of the conditional statements and loops and format the data in report format
+
+
+Assignment #5
+This is a program meant to do conversions from one unit to another. The program uses both the conditional statements and the loops
+
+
+Assignment #6
+This is a program for Scholarship Management. It uses the conditional statements, loops and files. It also integrates with other modules that are imported into Python.
+
